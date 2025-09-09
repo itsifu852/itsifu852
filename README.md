@@ -25,8 +25,8 @@ I am an experienced software architect and DevOps professional with deep experti
 
 - **Languages & Frameworks:**  
   Java (Spring Framework, Spring Boot, Hibernate) | Python (FastAPI, Pydantic, OpenCV, SQLAlchemy) | Node.js, Vue.js, Nuxt  
-- **Databases:**  
-  Oracle, PostgreSQL, Microsoft SQL Server  
+- **SQL & NOSQL:**  
+  Oracle, PostgreSQL, Microsoft SQL Server, Redis
 - **Tools & Concepts:**  
   DevOps practices | CI/CD by Jenkins, GitLab
 - **Specialized Domains:**  
