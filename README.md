@@ -36,8 +36,6 @@ I am an experienced software architect and DevOps professional with deep experti
 
 ## 📂 Featured Project
 
-- [github/gitignore](https://github.com/github/gitignore) - Contributed to maintaining professional `.gitignore` templates for diverse development environments.
-
 ---
 
 ## 💼 Professional Experience Highlights
